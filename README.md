@@ -8,4 +8,3 @@
 
 ### 📫 Where to find me
 - Twitter [@idaxtar](https://twitter.com/idaxtar)
-- Instagram [@daxartio](https://instagram.com/daxartio)
