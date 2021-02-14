@@ -4,7 +4,7 @@
 ### Hi there 👋
 
 ### 💼 Where i am currently working at/as
-- [Tinkoff.ru](https://tinkoff.ru)
+- [TINKOFF](https://tinkoff.ru)
 
 ### 📫 Where to find me
 - Twitter [@idaxtar](https://twitter.com/idaxtar)
