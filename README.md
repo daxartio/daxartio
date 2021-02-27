@@ -7,4 +7,4 @@
 - [TINKOFF](https://tinkoff.ru)
 
 ### 📫 Where to find me
-- Twitter [@idaxtar](https://twitter.com/idaxtar)
+- Twitter [@daxartio](https://twitter.com/daxartio)
