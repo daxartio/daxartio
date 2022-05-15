@@ -1,7 +1,6 @@
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=daxartio&show_icons=true)
-
 ### Hi there 👋
+
+[My cv repo](https://github.com/daxartio/cv)
 
 ```python
 @dataclass
@@ -20,5 +19,3 @@ class Person:
 
 ### 📫 Where to find me
 - Twitter [@daxartio](https://twitter.com/daxartio)
-
-[![Github Stats](https://github-readme-stats.vercel.app/api/pin?username=daxartio&repo=cv)](https://github.com/daxartio/cv)
