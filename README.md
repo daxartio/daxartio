@@ -1,5 +1,5 @@
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=daxartio&show_icons=true&theme=onedark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=daxartio&show_icons=true)
 
 ### Hi there 👋
 
@@ -21,4 +21,4 @@ class Person:
 ### 📫 Where to find me
 - Twitter [@daxartio](https://twitter.com/daxartio)
 
-[![Github Stats](https://github-readme-stats.vercel.app/api/pin?username=daxartio&repo=cv&theme=onedark)](https://github.com/daxartio/cv)
+[![Github Stats](https://github-readme-stats.vercel.app/api/pin?username=daxartio&repo=cv)](https://github.com/daxartio/cv)
