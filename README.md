@@ -16,6 +16,3 @@ class Person:
 
 ### 💼 Where i am currently working at/as
 - [TINKOFF](https://tinkoff.ru)
-
-### 📫 Where to find me
-- Twitter [@daxartio](https://twitter.com/daxartio)
