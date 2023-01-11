@@ -14,5 +14,4 @@ class Person:
 }
 ```
 
-### 💼 Where i am currently working at/as
-- [TINKOFF](https://tinkoff.ru)
+I work for [TINKOFF](https://tinkoff.ru) as Software Architect.
