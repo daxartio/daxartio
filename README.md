@@ -11,4 +11,4 @@ languages = ['Python', 'Rust']
 
 ```
 
-I work for [TINKOFF](https://tinkoff.ru) as Software Architect.
+I work for [TINKOFF](https://tinkoff.ru) as a Software Architect.
