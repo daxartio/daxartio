@@ -1,14 +1,9 @@
 ### Hi there 👋
 
+Software engineer focused on performant web systems. More than 8 years of professional web development.
+
 [My CV](https://github.com/daxartio/cv)
 
-```python
-[[person]]
-username = 'daxartio'
-name = 'Danil Akhtarov'
-primary_skillset = ['Back-End', 'Web developer']
-languages = ['Python', 'Rust']
+Languages: Python, Rust
 
-```
-
-I work for [TINKOFF](https://tinkoff.ru) as a Software Architect.
+I work as a Software Architect.
