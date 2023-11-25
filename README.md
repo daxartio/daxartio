@@ -8,6 +8,7 @@ I work as a Software Architect.
 
 ### Projects
 
+- [sportorg](https://github.com/sportorg/pysport) is a comprehensive software solution developed in Python that streamlines the organization and execution of orienteering competitions
 - [termynal](https://github.com/mkdocs-plugins/termynal) Python markdown terminal. Built for mkdocs
 - [kdbx](https://github.com/daxartio/kdbx) A secure hole for your passwords (Keepass CLI), TOTP
 - [flager](https://github.com/daxartio/flager) Feature flags updater for any backend
