@@ -2,9 +2,7 @@
 
 Software engineer focused on performant web systems. More than 8 years of professional web development.
 
-Languages: Python, Rust
-
-I work as a Software Architect.
+Languages: Python, Rust, Go
 
 ### Projects
 
