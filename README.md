@@ -9,6 +9,7 @@ Languages: Python, Rust, Go
 - [sportorg](https://github.com/sportorg/pysport) is a comprehensive software solution developed in Python that streamlines the organization and execution of orienteering competitions
 - [termynal](https://github.com/termynal/termynal.py) Python markdown terminal. Built for mkdocs
 - [kdbx](https://github.com/daxartio/kdbx) A secure hole for your passwords (Keepass CLI), TOTP
+- [mockser](https://github.com/daxartio/mockser) Configurable mock server for testing and development
 - [flager](https://github.com/daxartio/flager) Feature flags updater for any backend
 - [rust project tamplate](https://github.com/daxartio/rust-project-template) A template for rust projects
 - [python project template](https://github.com/daxartio/python-project-template) A template for python packages
