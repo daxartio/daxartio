@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Software engineer focused on performant web systems. More than 8 years of professional web development.
+A developer with over 10 years of experience in web backend development. I use programming languages such as Python, Rust, and Go. I have extensive expertise in the system design of high-load and distributed systems. I implement software development practices in large teams, including internal libraries, service templates, CI/CD, and code testing. 
+
+Recently, I have held positions such as architect, tech lead, and principal engineer.
 
 Languages: Rust, Python, Go
 
